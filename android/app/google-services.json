@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549079682767",
+    "project_id": "grin-firabase-auth",
+    "storage_bucket": "grin-firabase-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549079682767:android:35d176acf89af64112f1ba",
+        "android_client_info": {
+          "package_name": "com.example.grin_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwYxfqlsf2gXtEuReMCsFNy7EHd-SNJG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
